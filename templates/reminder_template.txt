@@ -1,0 +1,9 @@
+Hello {name},
+
+This is a reminder for:
+
+Task: {task}
+Scheduled Date: {date}
+
+Thank you,
+Automation Team
